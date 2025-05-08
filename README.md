@@ -12,11 +12,7 @@ What I’m Up To 🌟
 
 
 
-📱 Building cross-platform apps with Flutter, like my Memory Saver App for saving memories securely.
-
-
-
-🐍 Experimenting with Python for mini projects and automation.
+☕Experimenting with Java for mini projects.
 
 
 Skills 🛠️
@@ -29,7 +25,7 @@ Languages: Java, Python
 
 
 
-Frameworks: Spring Boot, Flutter, React
+Frameworks: Spring Boot, React
 
 
 
