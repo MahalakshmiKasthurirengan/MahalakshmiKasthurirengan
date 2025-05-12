@@ -21,7 +21,7 @@ Skills 🛠️
 
 
 
-Languages: Java, Python
+Languages: Java
 
 
 
